@@ -1,3 +1,5 @@
+# Automated Machine Learning Classification Pipeline
+
 # Overview
 This project implements an end-to-end automated machine learning classification pipeline using Python. It covers the complete ML workflow from raw data validation and feature engineering to model training, evaluation, and selection — following industry-standard best practices.
 The pipeline is designed to be modular, scalable, and reproducible, making it suitable for real-world classification problems.
